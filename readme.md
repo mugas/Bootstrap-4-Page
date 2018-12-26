@@ -2,7 +2,7 @@
 
 <p>Webpage made with Bootstrap4 and changed with CSS. Fully responsive</p>
 
-<ol>Skills Learned
-    <ul>Bootstrap 4</ul>
-    <ul>Migration from Bootrstrap 3 to Bootsrap 4</ul>
-</ol>
+<ul>Skills Learned
+    <li>Bootstrap 4</li>
+    <li>Migration from Bootrstrap 3 to Bootsrap 4</li>
+</ul>
